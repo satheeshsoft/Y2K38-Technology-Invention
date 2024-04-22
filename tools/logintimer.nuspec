@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>loginTimer</id>
+    <version>117.0.0.0</version>
+    <packageSourceUrl>https://github.com/satheeshsoft/Y2K38-Technology-Invention/tree/main/tools</packageSourceUrl>
+    <owners>satheeshsoft</owners>
+    <title>loginTimer - World First Y2K38 Technology Invention from satheeshsoft Technology</title>
+    <authors>satheeshsoft</authors>
+    <projectUrl>https://softcleaner.in/y2k38-logintimer-computer-system-login</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/satheeshsoft/Y2K38-Technology-Invention/main/loginTimer-icon.png</iconUrl>
+    <copyright>satheeshsoft</copyright>
+    <licenseUrl>https://softcleaner.in/privacy-policy-2/</licenseUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <docsUrl>https://softcleaner.in/y2k38-logintimer-computer-system-login</docsUrl>
+    <mailingListUrl>https://www.softcleaner.in/contact</mailingListUrl>
+    <bugTrackerUrl>https://www.softcleaner.in/contact</bugTrackerUrl>
+    <tags>invention y2k38 y2k admin foss software technology trial</tags>
+    <summary>loginTimer - World First Y2K38 Technology Invention - Software that automatically scans computer login date and time</summary>
+    <description><![CDATA[
+loginTimer is powerful software that automatically scans computer login times and secretly stores them for you
+in a private text file, in addition to all users' login date, time, total logins each day/user, admin actions, login
+behavior (local and remote) and saves them continuously, one by one, in a private log file. This makes it easy
+for you to identify any suspicious activity on your computer and take appropriate action if necessary.
+https://softcleaner.in/y2k38-logintimer-computer-system-login
+
+It included the first successful discovery of Y2K38 technology. It works up to 2099 and after, with no Y2K year
+limitations on future devices. Portable in computer drive. Works in any of your personal folder in computer other than Windows
+system drive. The program built in 32 bit Multi-byte exe.
+
+(This works only in the computer hard drive. Do not run this software from any other external hard drives or pendrives.)
+Place the loginTimer folder in any drive (Eg: E:\\your folder\loginTimer) or inside sub folders you choose. (Eg:
+E:\\your folder\loginTimer not in C:\\ drive or Windows installed drive). Also it should be any of the folders, not
+to place directly in drive because privacy you only knows where the program location.
+You can rename loginTimer folder name to any name. First time you must activate Run as administrator,
+loginTimer.exe. See the log file. Log file including login statistics will be created regarding current User Account whenever the computer login happens. Another new entries will become next automatically. Apply Run as administrator, if you changed the folder.
+Specification: English. Log file is read only attribute, do not manually change/update the log file.
+
+Requirement recommended 64 bit Windows operating system: Windows 11/10/8/Server, 32/64 bit or Windows 7 Ultimate 64 SP1-IE11(updated and .NET).
+License: Trial 30 days.
+
+Virus scan results DR.WEB: https://online273.drweb.com/cache/?i=9a1d2298dda3c33bfead37997632a858
+
+	![Screenshot](https://raw.githubusercontent.com/satheeshsoft/Y2K38-Technology-Invention/main/logintimer%20y2k38%20technology.png)
+	]]></description>
+    <releaseNotes>Technical update</releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
